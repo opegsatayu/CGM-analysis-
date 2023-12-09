@@ -1,0 +1,15 @@
+Read me 
+
+Overview
+- Compare the accuracy of mainstream CGM devices using MARD 
+
+main goal of this research 
+- to find the more accurate CGM brand. 
+
+Methods
+- compare the MARD of each brands 
+
+Conclusion 
+- The brands had quite similar MARD value, which shows that the market is quite competitive and consumer’s choice of purchasing from each brand would be dependent on the unique functions that the brand offers. 
+
+
